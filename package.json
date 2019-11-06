@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "pre": "vuepress eject press"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
