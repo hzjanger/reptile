@@ -24,6 +24,14 @@ module.exports = {
         lastUpdated: '上次更新',
         sidebar: [
             {
+                title: 'python基础',
+                children: [
+                    'python基础/json和对象的转换',
+                    'python基础/json文件存储',
+                    'python基础/csv文件存储'
+                ]
+            },
+            {
                 title: '爬虫基础',
                 children: [
                     '爬虫基础/http基本原理'
